@@ -20,8 +20,6 @@ Built with Python, Streamlit, and Google Cloud, it visualizes potential impacts,
 
 📊 Dynamic dashboards built with Plotly and Streamlit
 
-☁ Data storage and processing via Google Cloud
-
 🧮 Impact energy and risk level estimation
 
 
@@ -41,8 +39,7 @@ NASA Open APIs
 
 USGS Earthquake API
 
-Google Cloud Platform (GCP)
-
+github repository 
 
 
 ---
@@ -92,7 +89,7 @@ Developers: [NAKAHOSA DINOVIC & JEAN-DAVID NZOLANI]
 
 Data Science & Visualization: [NAKAHOSA DINOVIC, MWASENGI COEL and FIDELE MIAKANDA]
 
-Cloud & Deployment: [Name(s)]
+ Deployment: [NAKAHOSA, NTUMBA,NZOLANI]
 
 
 
@@ -105,5 +102,7 @@ Integration with AI for asteroid trajectory prediction
 Real-time notification system for high-risk events
 
 3D orbital visualization using Three.js
+
+association of 3D(Murison Algorithm) and the platform 
 
 Mobile app version
