@@ -48,7 +48,7 @@ github repository
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/meteor-madness.git
+git clone https://github.com/nakht0012/artemis1----meteor-madness
 cd meteor-madness
 
 2. Install dependencies
